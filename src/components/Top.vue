@@ -14,7 +14,7 @@ import SearchBar from './SearchBar.vue';
 
 <style scoped>
 .top {
-  background-image: url('./../assets/img/header/background.png');
+  background-image: url('./img/header/background.png');
   background-size: 100% 100%;
 }
 

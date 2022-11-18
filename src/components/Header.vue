@@ -6,8 +6,8 @@ import Nav from './Nav.vue'
   <header class="px-4 sm:px-20 mb-12 h-fit flex items-center justify-between relative py-10">
     <div class="flex h-full">
       <a href="#" class="mr-10 flex items-center">
-        <img src="./../assets/img/header/logo.png" alt="" class="hidden lg:block" style="min-height: 19px;min-width: 150px;">
-        <img src="./../assets/img/header/Skillsday.png" alt="" class="lg:hidden">
+        <img src="/img/header/logo.png" alt="" class="hidden lg:block" style="min-height: 19px;min-width: 150px;">
+        <img src="/img/header/Skillsday.png" alt="" class="lg:hidden">
       </a>
       <Nav current="Formations" />
     </div>

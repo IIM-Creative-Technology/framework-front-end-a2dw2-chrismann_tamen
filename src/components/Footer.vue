@@ -44,16 +44,16 @@
       </div>
       <div class="footer__socials flex justify-center lg:w-fit h-fit mb-4 lg:mb-0">
         <a href="#" class="socials__social">
-          <img src="./../assetS/img/footer/insta.svg" alt="" class="footer__socials--img">
+          <img src="/img/footer/insta.svg" alt="" class="footer__socials--img">
         </a>
         <a href="#" class="socials__social">
-          <img src="./../assetS/img/footer/linkedin.svg" alt="" class="footer__socials--img">
+          <img src="/img/footer/linkedin.svg" alt="" class="footer__socials--img">
         </a>
         <a href="#" class="socials__social">
-          <img src="./../assetS/img/footer/Frame.svg" alt="" class="footer__socials--img">
+          <img src="/img/footer/Frame.svg" alt="" class="footer__socials--img">
         </a>
         <a href="#" class="socials__social">
-          <img src="./../assetS/img/footer/youtube.svg" alt="" class="footer__socials--img">
+          <img src="/img/footer/youtube.svg" alt="" class="footer__socials--img">
         </a>
       </div>
     </div>
