@@ -3,6 +3,8 @@
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import Top from './components/Top.vue'
 import Card from "./components/Card.vue";
+import SwitchPage from "./components/SwitchPage.vue";
+import Cta from "./components/Cta.vue";
 import Footer from "./components/Footer.vue";
 </script>
 
@@ -75,6 +77,10 @@ import Footer from "./components/Footer.vue";
         </div>
       </div>
     </section>
+    <SwitchPage class='sm:justify-end justify-center' />
+    <div class="w-full flex justify-center">
+      <Cta/>
+    </div>
   </main>
   <Footer />
 </template>
