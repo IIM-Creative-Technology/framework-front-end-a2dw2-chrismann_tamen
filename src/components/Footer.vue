@@ -6,7 +6,7 @@
   <footer class="bg-footerBg text-white lg:px-20 lg:py-18">
     <div class="flex flex-col lg:flex-row lg:pb-24">
       <div class="mx-4 my-8 lg:m-0 lg:w-1/4 lg:mr-9">
-        <img src="./../assets/img/header/Skillsday.png" alt="" class="lg:mb-4">
+        <img src="/img/header/Skillsday.png" alt="" class="lg:mb-4">
         <p class="text-xs">Skillsday est un organisme nouvelle génération qui a pour mission de moderniser et digitaliser la formation en entreprise pour former, vraiment !</p>
       </div>
       <div class="footer__cat bg-white/20 lg:bg-transparent px-4 lg:px-0 lg:mr-9 mb-2 lg:mb-0">
