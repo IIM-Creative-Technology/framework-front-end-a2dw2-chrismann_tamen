@@ -12,6 +12,9 @@ module.exports = {
         minBtn: 'rgba(255, 106, 96, 1)',
         mainBg:'#F5F5F5',
         footerBg:'#0A0909'
+      },
+      spacing: {
+        '18': '72px'
       }
     },
   },

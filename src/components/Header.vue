@@ -3,7 +3,7 @@ import Nav from './Nav.vue'
 </script>
 
 <template>
-  <header class="px-4 sm:px-20 mb-12 h-8 sm:h-fit flex items-center justify-between relative">
+  <header class="px-4 sm:px-20 mb-12 h-fit flex items-center justify-between relative py-10">
     <div class="flex h-full">
       <a href="#" class="mr-10 flex items-center">
         <img src="./../assets/img/header/logo.png" alt="" class="hidden lg:block" style="min-height: 19px;min-width: 150px;">
