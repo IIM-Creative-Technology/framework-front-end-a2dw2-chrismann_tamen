@@ -8,7 +8,7 @@ import Card from "./components/Card.vue";
 <template>
   
   <Top />
-  <Card title="Mon titre" />
+  <Card title="Accueillir un.e collègue en situation de handicap" theme='Management & Leadership' thumbnail="./src/assets/img/cards/8.png" thumbnailAlt="hand holding an airplane" />
 </template>
 
 <style scoped>
